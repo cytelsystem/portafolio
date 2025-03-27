@@ -107,7 +107,7 @@
       #acerca-contenedor #Content-gridWrapper #gridContainer #h3-acerca {
         margin: 50px 0px 50px 0px;
         grid-area: 1 / 1 / 2 / 2;
-        justify-self: start;
+        justify-self: center;
         align-self: start; }
         #acerca-contenedor #Content-gridWrapper #gridContainer #h3-acerca h3 {
           font-family: Lulo-Clean-W01-One-Bold;
